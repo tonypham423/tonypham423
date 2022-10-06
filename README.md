@@ -25,7 +25,7 @@
 
  - [Covid-19 data analysis](https://github.com/tonypham423/tonypham423/blob/main/Data%20Analysis%20with%20Python.ipynb)
  - [Predict the number of people admitted to American College](https://github.com/tonypham423/tonypham423/blob/main/Predict%20the%20number%20of%20people%20accepted%20to%20American%20College.ipynb)
- - [Predict people affected by type 2 diabetes in Arizona]https://github.com/tonypham423/tonypham423/blob/main/Predict%20people%20affected%20by%20type%202%20diabetes%20in%20Arizona.ipynb)
+ - [Predict people affected by type 2 diabetes in Arizona](https://github.com/tonypham423/tonypham423/blob/main/Predict%20people%20affected%20by%20type%202%20diabetes%20in%20Arizona.ipynb)
  - [Movie Recommendation system](https://github.com/tonypham423/tonypham423/blob/main/Movie%20Recommendation%20system.ipynb)
  - [Face Mask Detector Using Tensorflow and OpenCV](https://github.com/tonypham423/tonypham423/blob/main/Picture_Face%20Mask%20Detector%20Using%20Tensorflow%20and%20OpenCV.ipynb)
  - [Other](https://github.com/tonypham423/My-project/tree/main)
